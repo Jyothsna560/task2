@@ -1,0 +1,84 @@
+.ph{
+	text-align:center;
+ }
+ .tab-resume{
+	
+	padding-left: 30%;
+	padding-right: 30%;
+	max-width: 200%;
+	/text-align:center;/
+
+}
+.profile-view{
+	border: 2px solid black;
+	font-size: 25px;
+		
+}
+.contact{
+	text-align:right;
+
+}
+.career{
+	border: 2px solid black;
+	width: 100%;
+	/*padding-left: 30%;
+	padding-right: 30%*/
+}
+.img{
+	text-align:center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+	width: 50%;
+
+		
+}
+table,th,td{
+	border:1px solid black;
+	border-collapse: collapse;
+	
+}
+h1.co{
+	text-decoration: underline;
+}
+@media only screen and (min-width:480px) and (max-width:768px){
+	.ph{
+	text-align:center;
+ }
+ .phone-resume{
+	
+	padding-left: 30%;
+	padding-right: 30%;
+	max-width: 100%;
+	/text-align:center;/
+
+}
+.profile-view{
+	border: 2px solid black;
+	font-size: 25px;
+		
+}
+.contact{
+	text-align:center;
+
+}
+.career{
+	border: 2px solid black;
+	width: 100%;
+	/*padding-left: 30%;
+	padding-right: 30%*/
+}
+.img{
+	text-align:center;
+
+		
+}
+table,th,td{
+	border:1px solid black;
+	border-collapse: collapse;
+	
+}
+h1.co{
+	text-decoration: underline;
+}
